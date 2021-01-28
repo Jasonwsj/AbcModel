@@ -11,7 +11,7 @@
 
 - (void)log
 {
-    NSLog(@"hello wortd");
+    NSLog(@"hello wortd 0.0.3");
 }
 
 @end

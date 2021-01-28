@@ -103,7 +103,6 @@
 				12729D70CB60E00767D3071A /* Pods-AbcModel_Tests.debug.xcconfig */,
 				F7A0047CEB2A34EB9BB14682 /* Pods-AbcModel_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -249,6 +248,9 @@
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = "1051366788@qq.com";
 				TargetAttributes = {
+					6003F589195388D20070C39A = {
+						DevelopmentTeam = M56GW2738L;
+					};
 					6003F5AD195388D20070C39A = {
 						TestTargetID = 6003F589195388D20070C39A;
 					};
@@ -514,6 +516,7 @@
 			baseConfigurationReference = 133AC4C1D147BCEF5C865429 /* Pods-AbcModel_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = M56GW2738L;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "AbcModel/AbcModel-Prefix.pch";
 				INFOPLIST_FILE = "AbcModel/AbcModel-Info.plist";
@@ -531,6 +534,7 @@
 			baseConfigurationReference = D6013BAC138B56E72CF48A0B /* Pods-AbcModel_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = M56GW2738L;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "AbcModel/AbcModel-Prefix.pch";
 				INFOPLIST_FILE = "AbcModel/AbcModel-Info.plist";
