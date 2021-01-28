@@ -22,7 +22,7 @@ pod 'AbcModel'
 
 ## Author
 
-1051366788@qq.com, 1051366788@qq.com
+Jason, 1051366788@qq.com
 
 ## License
 
